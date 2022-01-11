@@ -47,7 +47,7 @@ nav a:hover{
 #banner{
     display: flex;
     justify-content: center;
-    background-image:url(../../Medicenter/assets/image/img1.jpg);
+    background-image:url(assets/image/img1.jpg);
     background-position: center;
     background-size: cover;
     height: 670px;
